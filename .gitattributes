@@ -2,4 +2,4 @@
 *.c      diff=cpp
 *.sln    merge=union
 *.vcproj merge=union
-*.vcxproj merge=union
+*.vcxproj merge=union* text=auto
